@@ -1,6 +1,9 @@
 # TUGAS PROYEK TERINTEGRASI: Distributed Database, SSO, dan Inference Model
 
-**Mata Kuliah:** Kapita Selekta / Sistem Basis Data Terdistribusi  
+**Mata Kuliah:** Sistem Basis Data Terdistribusi  
+**Nama Mahasiswa:** Feri Bagus Riadi  
+**NIM:** 20230801232  
+**Repositori GitHub:** https://github.com/feri-hub/sistem-basis-data-terdistribusi  
 **Bobot:** 40%  
 **Fokus:** **Tahap 1: Kontainerisasi Layanan (Docker & Local Orchestration)**
 

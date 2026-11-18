@@ -1,9 +1,10 @@
 # LAPORAN TUGAS PROYEK TERINTEGRASI (BOBOT: 40%)
 
-**Mata Kuliah:** Kapita Selekta / Sistem Basis Data Terdistribusi  
+**Mata Kuliah:** Sistem Basis Data Terdistribusi  
 **Judul Proyek:** Implementasi & Integrasi Distributed Relational Database, Single Sign-On (SSO), dan Inference Model Menggunakan Docker & Kubernetes  
-**Nama Mahasiswa:** Haeqal Hasan  
-**NIM:** 20230801237  
+**Nama Mahasiswa:** Feri Bagus Riadi  
+**NIM:** 20230801232  
+**Repositori GitHub:** https://github.com/feri-hub/sistem-basis-data-terdistribusi  
 
 ---
 
